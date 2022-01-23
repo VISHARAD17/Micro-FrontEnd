@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-nav {
+  padding: 5px;
+  width: 70%;
+  background-color: tomato;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+  color: black;
+  background-color: rgb(211, 201, 201);
+  padding: 10px;
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
